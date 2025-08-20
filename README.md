@@ -2,7 +2,7 @@
 
 **`Estudante FullStack`**
 
-Me chamo Juan Piedade, tenho 18 anos e sou da Bahia, de Alcobaça. Atualmente moro no Espírito Santo. Concluí o ensino médio e estou cursando na área de programação, motivado pela minha paixão por tecnologia.
+Me chamo Juan Piedade, tenho 18 anos e sou da Bahia, de Alcobaça. Atualmente, moro no Espírito Santo. Concluí o ensino médio e busco cursos e faculdade na área de programação, motivado pela minha paixão por tecnologia.
 
 ---
 
@@ -64,6 +64,14 @@ Me chamo Juan Piedade, tenho 18 anos e sou da Bahia, de Alcobaça. Atualmente mo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+<img 
+align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+          
 <img 
     align="left" 
     alt="Git" 
