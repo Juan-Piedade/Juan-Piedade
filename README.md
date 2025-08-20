@@ -66,8 +66,8 @@ Me chamo Juan Piedade, tenho 18 anos e sou da Bahia, de Alcobaça. Atualmente, m
 />
 <img 
 align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Docker" 
+    title="Docker"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
