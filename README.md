@@ -1,12 +1,15 @@
-# 🧑‍💻​ Juan Piedade
+![Banner](Background-github.png)
 
-**`Estudante FullStack`**
+<h1 align="center">🧑‍💻​ Juan Piedade</h1>
 
-Me chamo Juan Piedade, tenho 18 anos e sou da Bahia, de Alcobaça. Atualmente moro no Espírito Santo. Concluí o ensino médio e estou cursando na área de programação, motivado pela minha paixão por tecnologia.
+### 💫​ Sobre mim
+
+Me chamo Juan Piedade, tenho 19 anos e sou da Bahia, de Alcobaça. Atualmente moro no Espírito Santo. Concluí o ensino médio e estou cursando na área de programação, motivado pela minha paixão por tecnologia.
+
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Ferramentas
 
 <img 
     align="left" 
@@ -83,23 +86,3 @@ align="left"
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Juan-Piedade&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Piedade&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
